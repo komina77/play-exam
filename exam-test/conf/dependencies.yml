@@ -1,0 +1,13 @@
+# Application dependencies
+
+require:
+    - play
+    - exam -> exam
+
+repositories:
+    - My modules:
+        type:       local
+        artifact:   ${application.path}/../[module]
+        contains:
+            - exam
+

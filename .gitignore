@@ -1,0 +1,15 @@
+exam/commands.pyc
+exam/dist
+exam/lib
+
+test-result/
+tmp
+.classpath
+.project
+.dbeaver
+.settings
+
+logs
+eclipse
+modules
+

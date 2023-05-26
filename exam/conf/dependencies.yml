@@ -1,0 +1,4 @@
+self: play -> exam 0.1
+
+require:
+    - play [1.2,1.7[
